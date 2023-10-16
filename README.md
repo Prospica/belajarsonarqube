@@ -1,2 +1,5 @@
 # belajarsonarqube
-Testing sonarqube
+Build Now
+Build Again
+Test
+Test
